@@ -1,12 +1,12 @@
 package = 'pinba'
 version = 'scm-1'
 source  = {
-    url    = 'git://github.com/tony2001/tarantool-pinba.git',
+    url    = 'git://github.com/rushba/tarantool-pinba.git',
     branch = 'master',
 }
 description = {
     summary  = "Tarantool module for Pinba",
-    homepage = 'https://github.com/tony2001/tarantool-pinba.git',
+    homepage = 'https://github.com/rushba/tarantool-pinba.git',
     license  = 'BSD',
 }
 dependencies = {
